@@ -20,7 +20,7 @@ Sigue los siguientes pasos para instalar la aplicación:
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/bryanorellana28/CICRONOMETRO.git
+    git clone https://github.com/aluxs4/segunda-Serie-.git
     ```
 
 2. Configura el servidor web apuntando al directorio del proyecto descargado.
